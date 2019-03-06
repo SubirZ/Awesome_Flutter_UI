@@ -4,4 +4,4 @@ The purpose of this repository is to demonstrate the use of different widgets an
 
 ## Login Screen UI
 
-![](https://imgur.com/Lvz6Hqf)
+![](https://imgur.com/Lvz6Hqf.jpg)
