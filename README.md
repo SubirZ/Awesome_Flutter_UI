@@ -8,5 +8,7 @@ This beautiful login screen is made using ClipPath, CustomClipper, ClipOval, Box
 All the shapes are made programtically.
 
 ![](https://imgur.com/Lvz6Hqf.jpg)
-Design Concept by Sandip Ramani
+## Inspiration
+This Design is inspired from Sandip Ramani's Best Mobile APP Login, Sign up Concept :)
+
 https://www.uplabs.com/posts/best-mobile-app-login-sign-up-concept
