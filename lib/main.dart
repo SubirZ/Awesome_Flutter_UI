@@ -3,6 +3,7 @@ import 'package:flutter/services.dart';
 import 'package:flutter_ui_bundle/background.dart';
 import 'package:flutter_ui_bundle/loginUi.dart';
 
+//Main function
 void main() {
   SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp])
       .then((_) {
@@ -10,6 +11,7 @@ void main() {
   });
 }
 
+//Stateless widget
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
@@ -25,6 +27,7 @@ class MyApp extends StatelessWidget {
   }
 }
 
+//Stateful widget
 class MyHomePage extends StatefulWidget {
   MyHomePage({Key key, this.title}) : super(key: key);
   final String title;
